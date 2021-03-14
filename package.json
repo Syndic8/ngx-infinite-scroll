@@ -35,7 +35,6 @@
     "typescript"
   ],
   "license": "MIT",
-  "peerDependencies": {},
   "devDependencies": {
     "@angular/animations": "^10.1.6",
     "@angular/common": "^10.1.6",
@@ -76,7 +75,6 @@
     "zone.js": "0.10.3"
   },
   "dependencies": {
-    "@scarf/scarf": "^1.1.0",
     "opencollective-postinstall": "^2.0.2"
   },
   "collective": {
@@ -85,6 +83,6 @@
     "logo": "https://opencollective.com/ngx-infinite-scroll/logo.txt"
   },
   "publishConfig": {
-      "registry": "http://nexus.okd-synfra-ue2.syndic8.io/repository/npm-private/"
+    "registry": "http://nexus.okd-synfra-ue2.syndic8.io/repository/npm-private/"
   }
 }
