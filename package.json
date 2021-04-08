@@ -83,6 +83,7 @@
     "logo": "https://opencollective.com/ngx-infinite-scroll/logo.txt"
   },
   "publishConfig": {
-    "registry": "http://nexus.okd-synfra-ue2.syndic8.io/repository/npm-private/"
+    "cache": "~/.npm",
+    "registry": "https://nexus.syndic8.io/repository/npm-private/"
   }
 }
